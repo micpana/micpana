@@ -66,8 +66,11 @@
 ---
 
 ### 🏆 Fun Facts
-- 🔥 I enjoy building and optimizing **full-stack applications and AI-powered systems**.
-- 🎯 Always learning new **tech stacks & frameworks**.
+- 🔥 I thrive on building and optimizing full-stack applications and AI-powered systems that solve real-world problems.
+- 🎯 Always on the lookout for new tech stacks and frameworks to enhance my skills and stay ahead of the curve. Whether it's experimenting with AI models or exploring new tools, I’m always learning.
+- 🤖 Passionate about AI chatbots and smart contract development—they’re fascinating, and I’m excited to build with them!
+- 🛠️ I enjoy diving into the nitty-gritty of scalable software solutions, constantly refining my approach to create more efficient and robust applications.
+- 🌱 Committed to lifelong learning and personal growth, always experimenting with new concepts and building something better.
 
 ---
 
