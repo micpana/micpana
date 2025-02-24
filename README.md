@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Michael Mudimbu!
+## 👋 Hey there, I'm Michael Panashe Mudimbu!
 
 ### 🚀 Full-Stack Developer | AI Enthusiast | Web3 Builder
 
@@ -7,7 +7,7 @@
 ---
 
 ### 💡 About Me
-- 💻 Full-Stack Developer specialized in **React.js, React Native, and Flask**.
+- 💻 Full-Stack Developer specialize in **React.js, React Native, and Flask**.
 - 🤖 AI Enthusiast building **AI-powered systems and chatbots (WhatsApp & Telegram)**.
 - 🔗 Web3 Developer crafting **smart contracts with Solidity**.
 - 🛠️ Passionate about **building scalable and efficient software solutions**.
@@ -37,18 +37,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelMudimbu&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelMudimbu&theme=radical" alt="GitHub Streak" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=micpana&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=micpana&theme=radical" alt="GitHub Streak" width="400px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMudimbu&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micpana&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
 </p>
 
 ---
@@ -56,17 +59,15 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmudimbu/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/michaelmudimbu)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/michaelmudimbu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://michaelmudimbu.netlify.app)
 
 ---
 
 ### 🏆 Fun Facts
-- 🔥 I enjoy building and optimizing **AI-powered chatbots**.
+- 🔥 I enjoy building and optimizing **full-stack applications and AI-powered systems**.
 - 🎯 Always learning new **tech stacks & frameworks**.
-- ✈️ Love traveling and exploring different cultures.
 
 ---
 
 🚀 _Let's build something amazing together!_ 🚀
-
