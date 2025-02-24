@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-micpana.vercel.app/api?username=micpana&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=micpana&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=micpana&theme=radical" alt="GitHub Streak" width="400px"/>
 </p>
 
