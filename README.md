@@ -7,8 +7,9 @@
 ---
 
 ### 💡 About Me
-- 💻 Full-Stack Developer specialize in **React.js, React Native, and Flask**.
-- 🤖 AI Enthusiast building **AI-powered systems and chatbots (WhatsApp & Telegram)**.
+- 💻 Full-Stack Developer specializing in **React.js, React Native, Flask, MongoDB, and RESTful APIs**.
+- 🤖 AI Enthusiast building **AI-powered systems**.
+- 🤖 Developing **WhatsApp & Telegram chatbots**.
 - 🔗 Web3 Developer crafting **smart contracts with Solidity**.
 - 🛠️ Passionate about **building scalable and efficient software solutions**.
 
@@ -46,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micpana&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
+  <img src="https://github-readme-stats-micpana.vercel.app/api?username=micpana&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=micpana&theme=radical" alt="GitHub Streak" width="400px"/>
 </p>
 
@@ -71,3 +72,4 @@
 ---
 
 🚀 _Let's build something amazing together!_ 🚀
+
