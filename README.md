@@ -2,8 +2,9 @@
 
 ### 🚀 Full-Stack Developer | AI Enthusiast | Web3 Builder
 
-![Profile Views](https://komarev.com/ghpvc/?username=MichaelMudimbu&label=Profile%20Views&color=blue&style=flat)
 [![wakatime](https://wakatime.com/badge/user/e4fa5b40-e5c8-413d-ba0f-d198d8d88aa1.svg)](https://wakatime.com/@e4fa5b40-e5c8-413d-ba0f-d198d8d88aa1)
+![Profile Views](https://komarev.com/ghpvc/?username=MichaelMudimbu&label=Profile%20Views&color=blue&style=flat)
+
 ---
 
 ### 💡 About Me
