@@ -3,7 +3,6 @@
 ### Fullstack Software Engineer | AI Systems, SaaS Platforms & Cloud Infrastructure
 
 [![wakatime](https://wakatime.com/badge/user/e4fa5b40-e5c8-413d-ba0f-d198d8d88aa1.svg)](https://wakatime.com/@e4fa5b40-e5c8-413d-ba0f-d198d8d88aa1)
-![Profile Views](https://komarev.com/ghpvc/?username=micpana&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
