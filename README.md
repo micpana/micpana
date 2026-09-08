@@ -110,6 +110,9 @@ LLM-powered recommendation platform delivering personalized herbal and wellness 
 - LinkedIn: https://www.linkedin.com/in/michael-p-mudimbu/
 - GitHub: https://github.com/micpana
 - X: https://x.com/MudimbuMichael
+- Facebook: https://www.facebook.com/MichaelPMudimbu
+- Medium: https://medium.com/@michaelmudimbu
+- Substack: https://substack.com/@michaelmudimbu
 
 ---
 
