@@ -91,19 +91,6 @@ LLM-powered recommendation platform delivering personalized herbal and wellness 
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micpana&show_icons=true&count_private=true" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=micpana" alt="GitHub Streak" width="400px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micpana&layout=compact" alt="Top Languages" width="400px"/>
-</p>
-
----
-
 ## Connect With Me
 
 - Portfolio: https://michaelmudimbu.vercel.app
