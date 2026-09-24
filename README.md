@@ -1,19 +1,19 @@
 ## 👋 Hi, I'm Michael Panashe Mudimbu
 
-### Fullstack Software Engineer | AI Systems, SaaS Platforms & Cloud Infrastructure
+### Senior Software Engineer | AI Systems, SaaS Platforms & Automation
 
 ---
 
 ## About Me
 
-Fullstack Software Engineer experienced in building production web, mobile and AI systems for international clients and remote teams.
+Senior Software Engineer experienced in building production web, mobile and AI systems for international clients and remote teams.
 
-I specialize in independently designing, developing, deploying and maintaining software products from concept to production. My experience spans fullstack development, software architecture, AI integrations, cloud infrastructure and SaaS platforms.
+I specialize in designing, developing, deploying and maintaining software products from concept to production, with hands-on experience across software architecture, AI integrations, cloud infrastructure and SaaS platforms.
 
 ### Current Focus
 
-- 🚀 Building production AI systems and SaaS platforms
-- 🤖 AI applications, LLM integrations and computer vision
+- 🚀 Production AI systems and SaaS platforms
+- 🤖 LLM integrations, AI applications and computer vision
 - 🏗️ Software architecture and API development
 - ☁️ Cloud infrastructure, Docker and deployment automation
 - 📱 Fullstack web and mobile development
@@ -26,22 +26,26 @@ I specialize in independently designing, developing, deploying and maintaining s
 ## Featured Projects
 
 ### 🧠 Skinraya
-AI-powered skincare analysis platform combining computer vision and LLM technologies.
+
+AI-powered skincare analysis platform combining computer vision and LLM technologies. Built around image-based skin analysis, AI-generated recommendations and a production API architecture.
 
 **Tech:** React, TypeScript, FastAPI, PostgreSQL, OpenAI, Docker
 
 ### 🏪 CubePOS
-Point of Sale and business management platform built to streamline retail operations.
+
+Point of Sale and business management platform designed to streamline retail operations through digital sales, inventory and business workflows.
 
 **Tech:** React, Python, MongoDB, REST APIs, Docker
 
 ### 🔬 Skin Segmentation Dataset Builder
+
 Computer vision dataset engineering tool that automates the creation of segmentation-ready datasets for machine learning workflows.
 
 **Tech:** Python, OpenCV, MediaPipe
 
 ### 🌿 Herbal-AI
-LLM-powered recommendation platform delivering personalized herbal and wellness suggestions.
+
+LLM-powered recommendation platform delivering personalized recommendations through an AI-driven application architecture.
 
 **Tech:** React, FastAPI, OpenAI API, Python
 
@@ -85,19 +89,19 @@ LLM-powered recommendation platform delivering personalized herbal and wellness 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A66C0?style=for-the-badge)
 
 ---
 
 ## Connect With Me
 
-- Portfolio: https://michaelmudimbu.vercel.app
-- LinkedIn: https://www.linkedin.com/in/michael-p-mudimbu/
-- GitHub: https://github.com/micpana
-- X: https://x.com/MudimbuMichael
-- Facebook: https://www.facebook.com/MichaelPMudimbu
-- Medium: https://medium.com/@michaelmudimbu
-- Substack: https://substack.com/@michaelmudimbu
+- **Portfolio:** https://michaelmudimbu.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/michael-p-mudimbu/
+- **GitHub:** https://github.com/micpana
+- **X:** https://x.com/MudimbuMichael
+- **Facebook:** https://www.facebook.com/MichaelPMudimbu
+- **Medium:** https://medium.com/@michaelmudimbu
+- **Substack:** https://substack.com/@michaelmudimbu
 
 ---
 
